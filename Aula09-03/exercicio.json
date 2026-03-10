@@ -1,0 +1,20 @@
+{
+    "filme-favorito": {
+        "titulo": "Star-Wars: A vingança dos Sith",
+        "ano": "2005",
+        "diretor": "George Lucas",
+        "Genero": "Ação e Ficção Ciêntifica"
+    },
+    "Nome-Aluno": {
+        "Nome": "Guilherme",
+        "Idade": "17",
+        "Notas": [10, 8, 9],
+        "Aprovado": false
+    },
+    "Produto": {
+        "Nome": "Playstation 5",
+        "preço": 3000,
+        "quantidade": 5,
+        "disponivel": true
+    }
+}
